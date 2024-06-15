@@ -1,3 +1,4 @@
+#just adding a comment
 #load functions
 Get-ChildItem -Path $PSScriptRoot\functions\*.ps1 |
 ForEach-Object {
